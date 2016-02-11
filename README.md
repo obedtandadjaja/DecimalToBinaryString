@@ -1,5 +1,5 @@
 # DecimalToBinaryString
-A simple light-weight algorithm to convert decimals to binary strings that I did for my Google interview.
+A simple light-weight algorithm in Java to convert decimals to binary strings that I did for my Google interview.
 
 ### Tests/Sample Output
 ````
